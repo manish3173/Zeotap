@@ -28,8 +28,14 @@ The dataset consists of three files:
 
 Feel free to submit issues and pull requests. Contributions are welcome!
 
-## Contact
+## Contributing
+Feel free to submit issues and pull requests. Contributions are welcome!
 
+## Contact
 For questions or support, please contact:
 
 - **Y Manish Kumar**: [ymanishk602@gmail.com](mailto:ymanishk602@gmail.com)
+
+## License
+This project is licensed under the MIT License.
+
