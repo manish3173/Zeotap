@@ -24,9 +24,7 @@ The dataset consists of three files:
 1. Ensure you have the necessary libraries installed: pandas, numpy, matplotlib, seaborn, sklearn.
 2. Load the datasets using the provided paths.
 3. Follow the Jupyter notebooks for EDA, Lookalike Model, and Clustering tasks.
-## Contributing
 
-Feel free to submit issues and pull requests. Contributions are welcome!
 
 ## Contributing
 Feel free to submit issues and pull requests. Contributions are welcome!
